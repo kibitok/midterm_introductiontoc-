@@ -1,0 +1,7 @@
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\math\math\bin\Debug\math.exe.config
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\math\math\bin\Debug\math.exe
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\math\math\bin\Debug\math.pdb
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\math\math\obj\Debug\math.csprojAssemblyReference.cache
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\math\math\obj\Debug\math.csproj.CoreCompileInputs.cache
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\math\math\obj\Debug\math.exe
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\math\math\obj\Debug\math.pdb

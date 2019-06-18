@@ -1,0 +1,6 @@
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\mileage\mileage\obj\Debug\mileage.csproj.CoreCompileInputs.cache
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\mileage\mileage\bin\Debug\mileage.exe.config
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\mileage\mileage\bin\Debug\mileage.exe
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\mileage\mileage\bin\Debug\mileage.pdb
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\mileage\mileage\obj\Debug\mileage.exe
+C:\Users\Bett.DESKTOP-CA8EKM1\source\repos\mileage\mileage\obj\Debug\mileage.pdb
